@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nathan!</h1>
 <h3 align="center">A full stack web developer</h3>
 
-- 🌱 I’m currently learning **CS, Python, Java**
+- 🌱  I’m currently learning **CS, Python, Java**
 
-- 📫 How to reach me **nathan.forman@gmail.com**
+- 📫  How to reach me **nathan.forman@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1fkkPpDWdJZ4VcVlRBz-F3fZF9NpzyCnijAe8jLxu-6s/edit?usp=sharing](https://docs.google.com/document/d/1fkkPpDWdJZ4VcVlRBz-F3fZF9NpzyCnijAe8jLxu-6s/edit?usp=sharing)
+- 📄  Know about my experiences [Resume Link](https://docs.google.com/document/d/1fkkPpDWdJZ4VcVlRBz-F3fZF9NpzyCnijAe8jLxu-6s/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
