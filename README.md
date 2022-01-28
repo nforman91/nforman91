@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Nathan!</h1>
-<h3 align="center">A full stack web developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - 🎓 Full Stack Web Developer
 
