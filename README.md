@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nathan!</h1>
 <h3 align="center">A full stack web developer</h3>
 
-- 🌱  I’m currently learning **CS, Python, Java**
+- 🎓 Full Stack Web Developer
+
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+
+- 🌱 Currently Learning → **CS, Python, Java**
+
+- ⚡ Open for project collaboration
 
 - 📫  How to reach me **nathan.forman@gmail.com**
 
