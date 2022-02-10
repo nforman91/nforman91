@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Nathan!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I'm Nathan!</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 - 🎓 Full Stack Web Developer
