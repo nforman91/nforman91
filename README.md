@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🎓 Full Stack Web Developer
 
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 Exploring new technologies and developing software solutions.
 
 - 🌱 Currently Learning → **CS, Python, Java**
 
