@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🤔 Exploring new technologies and developing software solutions.
 
-- 🌱 Currently Learning → **CS, Python, Java**
+- 🌱 Currently Learning → **CS, Python, Java, GraphQL**
 
 - ⚡ Open for project collaboration
 
